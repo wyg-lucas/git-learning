@@ -3,3 +3,4 @@
 ### git clone
 ### git checkout
 ### git merge
+### git fetch
